@@ -1,0 +1,7 @@
+{
+    //载入第三方头文件
+    "clangd.fallbackFlags": [
+        "-I/home/yzw/code/cpph",
+        "-I/home/yzw/code/cppb" 
+    ]
+}
